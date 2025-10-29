@@ -61,13 +61,7 @@ Conversor-de-Moedas/
 ├── pom.xml # Arquivo de configuração do Maven
 └── README.md # Este arquivo
 
-yaml
-Copiar código
-
 ---
-
-## 🧰 Como Executar o Projeto
-
 ### 1️⃣ Clonar o repositório
 
 git clone https://github.com/seu-usuario/Conversor-de-Moedas.git
